@@ -14,3 +14,4 @@ Fill out the table in ascending order of atomic number
 | 3             | Li             | Lithium      |
 | 4             | Be             | Beryllium    |
 | 7             | Ni             | Nitogren     |
+| 8             | O              | Oxygen       |
