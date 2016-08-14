@@ -9,5 +9,7 @@ Fill out the table in ascending order of atomic number
 
 | Atomic Number | Element Symbol | Element Name |
 |---------------|----------------|--------------|
+| 2             | He             | Helium       |
 | 3             | Li             | Lithium      |
 | 4             | Be             | Beryllium    |
+| 7             | Ni             | Nitogren     |
