@@ -12,6 +12,5 @@ Fill out the table in ascending order of atomic number
 |               |                |              |
 |               |                |              |
 | 3             | Li             | Lithium      |
-|               |                |              |
-|               |                |              |
 | 6             | C              | Carbon       |
+| 7             | Ni             | Nitogren     |
